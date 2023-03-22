@@ -38,3 +38,6 @@
   
 </div>
   
+ <div style="display: inline_block"><br>
+ <img align="center" alt="Naldo-Python"  height="50" width="10000" src="https://www.imagensanimadas.com/data/media/134/linha-divisoria-imagem-animada-0097.gif">
+</div>
