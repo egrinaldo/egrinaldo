@@ -1,7 +1,7 @@
 ## Olá, Eu sou o Egrinaldo🧑🏾‍💻
 
 - 💻 Hoje trabalho com Suporte Técnico (Banco de Dados - MySql).
-- 📚 Estudando Análise e Desenvolvimento de Sistemas.
+- 📚 Graduando Análise e Desenvolvimento de Sistemas.
 - 🧑‍🎓 Graduado Em Gestão Comercial.
 - ✏️ Estudando Python.
 - ✏️ Estudando Banco de Dados.
