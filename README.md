@@ -6,7 +6,9 @@
 - ✏️ Estudando Python.
 - ✏️ Estudando Banco de Dados.
 
-
+<div style="display: inline_block"><br>
+ <img align="center" alt="Naldo-Python"  height="1" width="10000" src="https://www.imagensanimadas.com/data/media/562/linha-imagem-animada-0386.gif">
+</div>
 
 <div>
   
@@ -27,9 +29,9 @@
   <img align="center" alt="Naldo-Python" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/5816/5816015.png">
   
 </div>
-  
- ## 
- 
+ <div style="display: inline_block"><br>
+ <img align="center" alt="Naldo-Python"  height="1" width="10000" src="https://www.imagensanimadas.com/data/media/562/linha-imagem-animada-0386.gif">
+</div>
 <div>
   
   <a href="https://www.linkedin.com/in/egrinaldojr/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
