@@ -20,5 +20,5 @@
   <img align="center" alt="Naldo-Ln" height="40" width="40" src="https://user-images.githubusercontent.com/7659133/227025920-42476046-8ab2-489a-8513-b752ce818bf7.png">
   <img align="center" alt="Naldo-Linux" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/2570/2570575.png">
   <img align="center" alt="Naldo-Python" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/5816/5816015.png">
-  <img align="right" alt="Naldo-GIF" height="80" width="80" src="https://gifs.eco.br/wp-content/uploads/2022/11/gifs-de-programador-29.gif">
+  <img align="right" alt="Naldo-GIF" height="100" width="100" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c9259ecf6de8.gif">
 </div>
