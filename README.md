@@ -1,4 +1,4 @@
-## Olá, Eu sou o Egrinaldo🧑🏾‍💻
+## <div>Olá, Eu sou o Egrinaldo<img align="center" alt="Naldo-Linux" height="35" width="35" src="https://cdn-icons-png.flaticon.com/512/439/439278.png"> </div>
 
 - 💻 Hoje trabalho com Suporte Técnico (Banco de Dados - MySql).
 - 📚 Graduando em Análise e Desenvolvimento de Sistemas.
@@ -16,8 +16,9 @@
 </div>
 
 <div style="display: inline_block"><br>
-  
+ 
   <img align="center" alt="Naldo-Ln" height="40" width="40" src="https://user-images.githubusercontent.com/7659133/227025920-42476046-8ab2-489a-8513-b752ce818bf7.png">
-  <img align="center" alt="Naldo-Ln" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/2570/2570575.png">
-   <img align="center" alt="Naldo-Ln" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/5816/5816015.png">
+  <img align="center" alt="Naldo-Linux" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/2570/2570575.png">
+  <img align="center" alt="Naldo-Python" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/5816/5816015.png">
+  <img align="right" alt="Naldo-GIF" height="80" width="80" src="https://gifs.eco.br/wp-content/uploads/2022/11/gifs-de-programador-29.gif">
 </div>
