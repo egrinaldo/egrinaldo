@@ -13,3 +13,6 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=slateorange"/> 
 </div>
 
+<div style="display: inline_block"><br>
+  <img align="center" alt="Naldo-Ln" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/627/627857.png">
+</div>
