@@ -2,7 +2,7 @@
 
 - 💻 Hoje trabalho com Suporte Técnico (Banco de Dados - MySql).
 - 📚 Graduando em Análise e Desenvolvimento de Sistemas.
-- 🧑‍🎓 Graduado em Gestão Comercial.
+- 🧑🏾‍🎓 Graduado em Gestão Comercial.
 - ✏️ Estudando Python.
 - ✏️ Estudando Banco de Dados.
 
