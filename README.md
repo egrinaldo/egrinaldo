@@ -27,6 +27,7 @@
   <img align="center" alt="Naldo-Ln" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/9788/9788035.png">
   
   <img align="center" alt="Naldo-Python" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/5816/5816015.png">
+  <img align="center" alt="Naldo-Linux" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/2570/2570575.png">
   
 </div>
  <div style="display: inline_block"><br>
