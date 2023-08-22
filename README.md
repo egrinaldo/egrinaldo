@@ -30,7 +30,7 @@
   <img align="center" alt="Naldo-Linux" height="40" width="40" src="https://cdn-icons-png.flaticon.com/128/246/246185.png">
   <img align="center" alt="Naldo-Ln" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/9788/9788035.png">
 
-   <img align="center" alt="Naldo-Ln" height="40" width="40" src="(https://cdn-icons-png.flaticon.com/128/1199/1199113.png)">
+   <img align="center" alt="Naldo-Ln" height="40" width="40" src="https://cdn-icons-png.flaticon.com/128/1199/1199113.png">
   
 </div>
  <div style="display: inline_block"><br>
