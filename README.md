@@ -19,17 +19,21 @@
 </div>
 
 <div style="display: inline_block"><br>
+
  
-  <img align="center" alt="Naldo-Ln" height="40" width="40" src="https://user-images.githubusercontent.com/7659133/227025920-42476046-8ab2-489a-8513-b752ce818bf7.png">
+  <img align="center" alt="Naldo-Linux" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/2570/2570575.png">
   <img align="center" alt="Naldo-Ln" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/9788/9788035.png">
   
-  <img align="center" alt="Naldo-Linux" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/2570/2570575.png">
+ 
   <img align="center" alt="Naldo-Ln" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/9788/9788035.png">
   
   <img align="center" alt="Naldo-Python" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/5816/5816015.png">
   <img align="center" alt="Naldo-Ln" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/9788/9788035.png">
   
   <img align="center" alt="Naldo-Linux" height="40" width="40" src="https://cdn-icons-png.flaticon.com/128/246/246185.png">
+  <img align="center" alt="Naldo-Ln" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/9788/9788035.png">
+
+   <img align="center" alt="Naldo-Ln" height="40" width="40" src="https://cdn-icons-png.flaticon.com/128/5968/5968242.png">
   
 </div>
  <div style="display: inline_block"><br>
