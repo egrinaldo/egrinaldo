@@ -29,7 +29,7 @@
   <img align="center" alt="Naldo-Python" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/5816/5816015.png">
   <img align="center" alt="Naldo-Ln" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/9788/9788035.png">
   
-  <img align="center" alt="Naldo-Linux" height="40" width="40" src="![image](https://github.com/egrinaldo/egrinaldo/assets/7659133/9b97395d-086f-4534-8c1d-9c6e7dae64b3)">
+  <img align="center" alt="Naldo-Linux" height="40" width="40" src="https://github.com/egrinaldo/egrinaldo/assets/7659133/9b97395d-086f-4534-8c1d-9c6e7dae64b3">
   
 </div>
  <div style="display: inline_block"><br>
