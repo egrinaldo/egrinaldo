@@ -14,7 +14,7 @@
   
 <a href="https://github.com/egrinaldo">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=egrinaldo&theme=slateorange&show_icons=true">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=slateorange"> 
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=egrinaldo&theme=slateorange"> 
  
 </div>
 
