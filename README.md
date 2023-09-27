@@ -25,6 +25,9 @@
   
   <img align="center" alt="Naldo-node" height="40" width="40" src="https://cdn-icons-png.flaticon.com/128/5968/5968322.png">
   <img align="center" alt="Naldo-Ln" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/9788/9788035.png">
+
+  <img align="center" alt="Naldo-node" height="40" width="40" src="https://cdn-icons-png.flaticon.com/128/10832/10832170.png">
+  <img align="center" alt="Naldo-Ln" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/9788/9788035.png">
   
   <img align="center" alt="Naldo-Linux" height="40" width="40" src="https://cdn-icons-png.flaticon.com/128/246/246185.png">
   <img align="center" alt="Naldo-Ln" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/9788/9788035.png">
